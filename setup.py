@@ -33,7 +33,7 @@ setup(
         "pycognito==2022.4.0",
         "snitun==0.31.0",
         "acme==1.26.0",
-        "cryptography>=2.8,<38.0",
+        "cryptography>=2.8,<40.0",
         "attrs>=19.3",
         "aiohttp>=3.6.1",
         "atomicwrites==1.4.0",
